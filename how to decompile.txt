@@ -1,0 +1,15 @@
+dependancies 
+python 3.13 or higher
+pyinstaller
+the HJOS 2.0.exe from my website
+
+
+
+
+how to decompile 
+
+in where hjos 2.0.exe is located run
+python pyinstxtractor.py "HJOS 2.0.exe"
+
+
+then u done
